@@ -1,0 +1,16 @@
+PODS:
+  - SHCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - SHCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  SHCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SHCategoryKit: 8ee5914929805fb85602d7f43b9d33402fb84475
+
+PODFILE CHECKSUM: 8fbd1886929caf59312f3443b528087b8c4ac524
+
+COCOAPODS: 1.8.0

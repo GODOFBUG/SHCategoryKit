@@ -1,0 +1,22 @@
+{
+  "name": "SHCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of SHCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GODOFBUG/SHCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "GODOFBUG": "739136841@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/GODOFBUG/SHCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SHCategoryKit/Classes/**/*"
+}

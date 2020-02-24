@@ -1,0 +1,6 @@
+framework module SHCategoryKit {
+  umbrella header "SHCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

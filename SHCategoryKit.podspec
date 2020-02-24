@@ -7,8 +7,11 @@
 #
 
 Pod::Spec.new do |s|
+  #组件名
   s.name             = 'SHCategoryKit'
+  #组件版本号
   s.version          = '0.1.0'
+  #防奔溃的分类组件
   s.summary          = 'A short description of SHCategoryKit.'
 
 # This description is used to generate tags and improve search results.
@@ -29,14 +32,16 @@ TODO: Add long description of the pod here.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-
+  #组件中资源文件路径
   s.source_files = 'SHCategoryKit/Classes/**/*'
   
   # s.resource_bundles = {
+      #组件中资源bundle路径
   #   'SHCategoryKit' => ['SHCategoryKit/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
+    #组件中依赖库
   # s.dependency 'AFNetworking', '~> 2.3'
 end
